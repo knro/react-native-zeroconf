@@ -1,7 +1,6 @@
 node_modules/
-dist/
 *.log
-
+.idea
 *.pbxuser
 !default.pbxuser
 *.mode1v3
